@@ -22,7 +22,7 @@ records. Explored key factors driving customer departure including membership
 type, complaint history, and customer feedback through structured EDA and
 visualization.
 
-**Key findings:** 54% churn rate | Membership type strongest predictor | Poor Product Quality #1 feedback  
+**Key findings:** 54% churn rate | Membership type strongest predictor | Poor Product Quality top feedback  
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn  
 **Repo:** [customer-churn-analysis](https://github.com/profpius/customer-churn-analysis)
 
